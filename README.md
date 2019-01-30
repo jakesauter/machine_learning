@@ -18,7 +18,14 @@ This repository will be used as a resource to prepare for a data scientist inter
  All in all I am very pleased with my formal education as well as the two **Summer Research Positions** that I was able to aquire along the way due to my academic performance and previous project successes.
     
     Proficiency in Python.
+    
+Python has genuinely come about as my favorite programming language. It is elegant in the brevity and readability of the code, allowing a master of the language to accomplish much in one line while still allowing programmers not-so-familiar with the language to understand what the code is doing. As we will later see in this repository, Python also has many useful libraries that are continually updated, and has found itself to be in the center of attention in this time of Machine Learning revolution and popularity due to widely supported libraries. This support includes **Google Cloud**, that allows users to run their Machine Learning algorithms on the most up to date hardware, including the newest **TPUs**. 
+
+I very recently have had extensive experience with Python as I am finally graduated and have the choice of langauge that I would like to work with on my independent projects and choose employers that also enjoy the same langauge that I do. This experience comes from some Bioinformatics training that I have been doing, very helpful for learning the language as after every problem I can consult the forum of answers to see if there is any solution that is remarkably elegant that I can learn from -- thus the reason why some problems on my [Rosalind Python Training Repository](https://github.com/jakesauter/rosalind_python_training) have 2 or more solutions.
+    
     Experience with machine learning and data modeling techniques such as decision trees, random forests, SVM, neural networks and incremental response.
+    
+    
     Experience with statistical tests and procedures such as ANOVA, Chi-squared, correlation, regression, and time series.
     Experience with survey sampling methodologies and data collection techniques.
     Ability to lead small-sized teams.
