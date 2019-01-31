@@ -25,20 +25,50 @@ I very recently have had extensive experience with Python as I am finally gradua
     
     Experience with machine learning and data modeling techniques such as decision trees, random forests, SVM, neural networks and incremental response.
     
+### Decision Trees
+    
+Decision Trees: I have studied decision trees in Python during my 2017 summer REU in medical informatics. During this time my research was involved with **uncertainty** in machine learning problems, where the exact true label of a sample wasn't known, but the probability distribution of the sample over a discrete number of classes was known. This form of problem lead to the use of **Belief Decision Trees**, in which the decision node was not a specific class, but a probability distribution over all possible classes called a pignistic probability. For this reserach we compared the performance of this kind of classifier with **standard decision trees** as well, so I do have some expereience with common implementations as well. 
+
+I also have previous experience with decision trees in R, though it was breif experience. I have learned that decision trees are usually binary decision trees (meaning a two way split at each node) even though that this is not the best way to split the input space. This is due to the ability to often easy interpretation by experts and even by ordinary users of this method. Decision trees are widely implemented in supervised machine learning approaches for this quality.
+
+### Random Forests
+
+
     
     Experience with statistical tests and procedures such as ANOVA, Chi-squared, correlation, regression, and time series.
+    
+    
     Experience with survey sampling methodologies and data collection techniques.
+    
+    
+    
     Ability to lead small-sized teams.
+    
+    
     Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information. U.S. citizenship is required.
 
 
 ## Nice To Haves
 
     Experience with SciPy, NumPy and Panda packages.
+    
+    
     Experience with Theano, Torch, Caffe, Tensorflow, Leaf or Autumn.
+    
+    
     Experience with developing in a Linux environment.
+    
+    
     Knowledge of machine learning acceleration techniques.
+    
+    
     Knowledge of radio communication technologies, i.e., coursework, amateur radio, etc.
+    
+    
     Knowledge of or past experience working within an agile environment.
+    
+    
     Experience with writing government proposals.
+    
+    
     Active security clearance.
