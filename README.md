@@ -23,7 +23,8 @@ Python has genuinely come about as my favorite programming language. It is elega
 
 I very recently have had extensive experience with Python as I am finally graduated and have the choice of langauge that I would like to work with on my independent projects and choose employers that also enjoy the same langauge that I do. This experience comes from some Bioinformatics training that I have been doing, very helpful for learning the language as after every problem I can consult the forum of answers to see if there is any solution that is remarkably elegant that I can learn from -- thus the reason why some problems on my [Rosalind Python Training Repository](https://github.com/jakesauter/rosalind_python_training) have 2 or more solutions.
     
-    Experience with machine learning and data modeling techniques such as decision trees, random forests, SVM, neural networks and incremental response.
+    Experience with machine learning and data modeling techniques such as decision trees, random forests, SVM,
+    neural networks and incremental response.
     
 ### Decision Trees
     
@@ -34,8 +35,46 @@ I also have previous experience with decision trees in R, though it was breif ex
 ### Random Forests
 
 
+
+### SVM
+
+### Artificial Neural Networks
+
+### Incremental Response
+
     
-    Experience with statistical tests and procedures such as ANOVA, Chi-squared, correlation, regression, and time series.
+    Experience with statistical tests and procedures such as ANOVA, Chi-squared, correlation,
+    regression, and time series.
+    
+As noted before the reason for my change of major to Applied Mathematics was to form a more solid mathematical background. Once I began my full-time math studies I found Statistics to be the most intersting (and most likely the most probable to be useful in my career path) of the topics I was studying, and thus let this guide me into taking more Statistics classes then required and performing a [**Capstone Project**](https://github.com/jakesauter/Molecular_Classification_Capstone) in Statistics applied to molecular genomics. 
+   
+### ANOVA
+
+Also during my last semester at SUNY Oswego I had the pleasure of taking a **Non-parametric Statistics Course** in which we reviewed **ANOVA**, while covering implemetnations in the **R programming language**
+
+Analaysis of Variance (ANOVA) is a statisitical test to **analyze the differences among group means in a sample**. 
+
+LINKS TO HOMEWORK IN WHICH ANOVA WAS COVERED
+
+### Chi-Squared
+
+During the second semester of my Junior year I enrolled in Mathematical Statistics II in which we reviewed the mathematical foundations of many Statistical tests and concepts, Chi-Squared was included in these studies.
+
+LINKS TO HOMEWORK IN WHICH CHI-SQUARE WAS COVERED
+
+
+### Correlation 
+
+Pearson Correlation Coefficient
+
+### Regression
+
+Also during the previously mentioned non-parametric statistics course **simple linear regression** and **multiple linear regression** were also covered. 
+
+LINKS TO HOMEWORK IN WHICH REGRESSION WAS COVERED
+
+
+### Time Series
     
     
     Experience with survey sampling methodologies and data collection techniques.
@@ -45,7 +84,8 @@ I also have previous experience with decision trees in R, though it was breif ex
     Ability to lead small-sized teams.
     
     
-    Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information. U.S. citizenship is required.
+    Applicants selected will be subject to a government security investigation and must meet eligibility requirements
+    for access to classified information. U.S. citizenship is required.
 
 
 ## Nice To Haves
