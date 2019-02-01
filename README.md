@@ -78,6 +78,8 @@ LINKS TO HOMEWORK IN WHICH REGRESSION WAS COVERED
     
     
     Experience with survey sampling methodologies and data collection techniques.
+   
+In the now seemingly very useful non-parametric statistics course that I had the pleasure of taking I was also exposed to many different sampling methodologies as we must be aware of the bias that can be introduced with different sampling methods, and even some methods are only applicable if certain sampling techniques are performed due to assumptions that must be met for statisticall sound tests.
     
     
     
