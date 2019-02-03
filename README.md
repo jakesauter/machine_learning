@@ -29,33 +29,33 @@ I very recently have had extensive experience with Python as I am finally gradua
     
 [**Capstone Project Machine Learning Week 1**](https://github.com/jakesauter/Molecular_Classification_Capstone/blob/master/files/Machine_Learning.pdf)
 
-  -- Machine Learning problem types
-  -- Suptervised / Unsupervised learning
-  -- Model assessment (confusion matrices / cross-validation / metrics)
+  ..* Machine Learning problem types
+  ..* Suptervised / Unsupervised learning
+  ..* Model assessment (confusion matrices / cross-validation / metrics)
     Not covered here: FOC curve, but previous experience with FOC in 
     2017 REU
-  -- feature selection
-  -- Quadratic and Linear discriminants
-  -- K-Nearest-Neighbor
-  -- Decision Trees
-  -- Neural Nets (BRIEF)
-  -- SVMs (Covered more thoroghly in next presentation)
-  -- Results from KNN applications to data
+  ..* feature selection
+  ..* Quadratic and Linear discriminants
+  ..* K-Nearest-Neighbor
+  ..* Decision Trees
+  ..* Neural Nets (BRIEF)
+  ..* SVMs (Covered more thoroghly in next presentation)
+  ..* Results from KNN applications to data
 
 
 [**Capstone Project Machine Learning Week 2**](https://github.com/jakesauter/Molecular_Classification_Capstone/blob/master/files/Machine_Learning_Continued.pdf)
 
  The motivation for this presentation was to really get a hold of the mathematical foundations, capabilites and limits of SVMs, so in the most thorogh manner capable in a weeks span, I began with the foundations of Logistic Regression and worked towards SVMS, while following **Andrew NG's** [lmachine learning Coursera course](https://www.coursera.org/learn/machine-learning).
  
-  -- Logistic Regression
-    -- Linear Boundaries
-    -- Non-Linear Boundaries
-    -- Fitting Parameters (Using **Gradient Descent** of cost function)
-  -- SVMs
-    -- Regualarization
-    -- Output Interpretation
-  -- Random Forests (BRIEF)
-  -- Applications of KNN, Decision Tree, Random Forest, SVM, Logistic Regression
+  ..* Logistic Regression
+    ..* Linear Boundaries
+    ..* Non-Linear Boundaries
+    ..* Fitting Parameters (Using **Gradient Descent** of cost function)
+  ..* SVMs
+    ..* Regualarization
+    ..* Output Interpretation
+  ..* Random Forests (BRIEF)
+  ..* Applications of KNN, Decision Tree, Random Forest, SVM, Logistic Regression
     
 ### Decision Trees
     
