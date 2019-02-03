@@ -26,17 +26,52 @@ I very recently have had extensive experience with Python as I am finally gradua
     Experience with machine learning and data modeling techniques such as decision trees, random forests, SVM,
     neural networks and incremental response.
     
+    
+[**Capstone Project Machine Learning Week 1**](https://github.com/jakesauter/Molecular_Classification_Capstone/blob/master/files/Machine_Learning.pdf)
+
+  -- Machine Learning problem types
+  -- Suptervised / Unsupervised learning
+  -- Model assessment (confusion matrices / cross-validation / metrics)
+    Not covered here: FOC curve, but previous experience with FOC in 
+    2017 REU
+  -- feature selection
+  -- Quadratic and Linear discriminants
+  -- K-Nearest-Neighbor
+  -- Decision Trees
+  -- Neural Nets (BRIEF)
+  -- SVMs (Covered more thoroghly in next presentation)
+  -- Results from KNN applications to data
+
+
+[**Capstone Project Machine Learning Week 2**](https://github.com/jakesauter/Molecular_Classification_Capstone/blob/master/files/Machine_Learning_Continued.pdf)
+
+ The motivation for this presentation was to really get a hold of the mathematical foundations, capabilites and limits of SVMs, so in the most thorogh manner capable in a weeks span, I began with the foundations of Logistic Regression and worked towards SVMS, while following **Andrew NG's** [lmachine learning Coursera course](https://www.coursera.org/learn/machine-learning).
+ 
+  -- Logistic Regression
+    -- Linear Boundaries
+    -- Non-Linear Boundaries
+    -- Fitting Parameters (Using **Gradient Descent** of cost function)
+  -- SVMs
+    -- Regualarization
+    -- Output Interpretation
+  -- Random Forests (BRIEF)
+  -- Applications of KNN, Decision Tree, Random Forest, SVM, Logistic Regression
+    
 ### Decision Trees
     
-Decision Trees: I have studied decision trees in Python during my 2017 summer REU in medical informatics. During this time my research was involved with **uncertainty** in machine learning problems, where the exact true label of a sample wasn't known, but the probability distribution of the sample over a discrete number of classes was known. This form of problem lead to the use of **Belief Decision Trees**, in which the decision node was not a specific class, but a probability distribution over all possible classes called a pignistic probability. For this reserach we compared the performance of this kind of classifier with **standard decision trees** as well, so I do have some expereience with common implementations as well. 
+I have studied decision trees in Python during my 2017 summer REU in medical informatics. During this time my research was involved with **uncertainty** in machine learning problems, where the exact true label of a sample wasn't known, but the probability distribution of the sample over a discrete number of classes was known. This form of problem lead to the use of **Belief Decision Trees**, in which the decision node was not a specific class, but a probability distribution over all possible classes called a pignistic probability. For this reserach we compared the performance of this kind of classifier with **standard decision trees** as well, so I do have some expereience with common implementations as well. 
 
 I also have previous experience with decision trees in R, though it was breif experience. I have learned that decision trees are usually binary decision trees (meaning a two way split at each node) even though that this is not the best way to split the input space. This is due to the ability to often easy interpretation by experts and even by ordinary users of this method. Decision trees are widely implemented in supervised machine learning approaches for this quality.
 
 ### Random Forests
 
+I came across random forests a few times in my academic career, though have only implemented them before breifly in R for my aforementioned [Capstone Project](https://github.com/jakesauter/Molecular_Classification_Capstone).
+
+### Support Vector Machines (SVMs)
+
+Again, I have come across SVMs a few times in my studies and research. I put them to use during my [last summer's research](https://github.com/jakesauter/lateralization_project), though have more thoroughly studied them guided by my interest during my [Capstone Project](https://github.com/jakesauter/Molecular_Classification_Capstone). 
 
 
-### SVM
 
 ### Artificial Neural Networks
 
@@ -46,7 +81,7 @@ I also have previous experience with decision trees in R, though it was breif ex
     Experience with statistical tests and procedures such as ANOVA, Chi-squared, correlation,
     regression, and time series.
     
-As noted before the reason for my change of major to Applied Mathematics was to form a more solid mathematical background. Once I began my full-time math studies I found Statistics to be the most intersting (and most likely the most probable to be useful in my career path) of the topics I was studying, and thus let this guide me into taking more Statistics classes then required and performing a [**Capstone Project**](https://github.com/jakesauter/Molecular_Classification_Capstone) in Statistics applied to molecular genomics. 
+As noted before the reason for my change of major to Applied Mathematics was to form a more solid mathematical background. Once I began my full-time math studies I found Statistics to be the most intersting (and most likely the most probable to be useful in my career path) of the topics was studying, and thus let this guide me into taking more Statistics classes then required and performing a [**Capstone Project**](https://github.com/jakesauter/Molecular_Classification_Capstone) in Statistics applied to molecular genomics. 
    
 ### ANOVA
 
