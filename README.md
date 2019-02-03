@@ -32,8 +32,7 @@ I very recently have had extensive experience with Python as I am finally gradua
   * Machine Learning problem types
   * Suptervised / Unsupervised learning
   * Model assessment (confusion matrices / cross-validation / metrics)
-    Not covered here: FOC curve, but previous experience with FOC in 
-    2017 REU
+    * Not covered here: FOC curve, but previous experience with FOC in 2017 REU
   * feature selection
   * Quadratic and Linear discriminants
   * K-Nearest-Neighbor
