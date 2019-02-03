@@ -44,7 +44,7 @@ I very recently have had extensive experience with Python as I am finally gradua
 
 [**Capstone Project Machine Learning Week 2**](https://github.com/jakesauter/Molecular_Classification_Capstone/blob/master/files/Machine_Learning_Continued.pdf)
 
- The motivation for this presentation was to really get a hold of the mathematical foundations, capabilites and limits of SVMs, so in the most thorogh manner capable in a weeks span, I began with the foundations of Logistic Regression and worked towards SVMS, while following **Andrew NG's** [lmachine learning Coursera course](https://www.coursera.org/learn/machine-learning).
+ The motivation for this presentation was to really get a hold of the mathematical foundations, capabilites and limits of SVMs, so in the most thorogh manner capable in a weeks span, I began with the foundations of Logistic Regression and worked towards SVMS, while following **Andrew NG's** [machine learning Coursera course](https://www.coursera.org/learn/machine-learning).
  
   * Logistic Regression
     * Linear Boundaries
