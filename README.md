@@ -71,11 +71,13 @@ I came across random forests a few times in my academic career, though have only
 Again, I have come across SVMs a few times in my studies and research. I put them to use during my [last summer's research](https://github.com/jakesauter/lateralization_project), though have more thoroughly studied them guided by my interest during my [Capstone Project](https://github.com/jakesauter/Molecular_Classification_Capstone). 
 
 
+### Artificial Neural Networks (ANNs)
 
-### Artificial Neural Networks
+My experience with ANNs comes from my Sophomore year A.I. [semester-long indepedent research project](https://jakesauter.github.io/course-sites/csc466_project.html) in which I implemented a Common LISP program that could construct aribitrary architectues of a simple **feed-forward ANN**. This ANN was used for memory compression of a form of board game solutions found via **Rote learning**.
 
 ### Incremental Response
 
+I have not heard the term "Incremental Response" before this prompt, though I was intially struck by the idea of **gradient descent**, and how the solution of a problem can be updated incrementally to achieve the optimal solution. With a little looking around I found a [maketing training website](https://blogs.sas.com/content/subconsciousmusings/2013/07/12/how-incremental-response-modeling-can-help-you-reach-the-right-target-group-more-precisely/) that described incremental response as a sort of experimental design, **second order** effects are attempted to be minimized while model changes are **incrementally added** in order to truly judge their effects on the model. 
     
     Experience with statistical tests and procedures such as ANOVA, Chi-squared, correlation,
     regression, and time series.
@@ -86,7 +88,13 @@ As noted before the reason for my change of major to Applied Mathematics was to 
 
 Also during my last semester at SUNY Oswego I had the pleasure of taking a **Non-parametric Statistics Course** in which we reviewed **ANOVA**, while covering implemetnations in the **R programming language**
 
-Analaysis of Variance (ANOVA) is a statisitical test to **analyze the differences among group means in a sample**. 
+Analaysis of Variance (ANOVA) is a statisitical test to **analyze the differences among group means in a sample**. In order for the **parametric** version of ANOVA to be valid,
+* The distribution of the **residuals** of the group means the values within each group must be Normally distributed.
+* The variances of all of the groups are equal 
+* No temporal or spatial (or any other in fact) trend is present
+* Data values are independent and random
+
+
 
 LINKS TO HOMEWORK IN WHICH ANOVA WAS COVERED
 
