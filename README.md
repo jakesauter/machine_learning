@@ -94,7 +94,7 @@ Analaysis of Variance (ANOVA) is a statisitical test to **analyze the difference
 * No temporal or spatial (or any other in fact) trend is present
 * Data values are independent and random
 
-
+If some or none of these assumptions are met the **non-parametric Kruskal-Wallis test** may be applicable. 
 
 LINKS TO HOMEWORK IN WHICH ANOVA WAS COVERED
 
