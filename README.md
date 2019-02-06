@@ -96,11 +96,13 @@ Analaysis of Variance (ANOVA) is a statisitical test to **analyze the difference
 
 If some or none of these assumptions are met the **non-parametric Kruskal-Wallis test** may be applicable. 
 
-Both of these test were covered in [Environmental Statistics HW 4](Environmental_Statistics_HW_4.pdf), also at this time I welcome you to look the the previous 3 homeworks that are also in the files directory, links below. 
+Both of these test were covered in [Environmental Statistics HW 4](files/Environmental_Statistics_HW_4.pdf), also at this time I welcome you to look the the previous 3 homeworks that are also in the files directory, links below. 
 
-[Environmental Statistics HW 1](Environmental_Statistics_HW_1.pdf)
-[Environmental Statistics HW 2](Environmental_Statistics_HW_2.pdf)
-[Environmental Statistics HW 3](Environmental_Statistics_HW_3.pdf)
+[Environmental Statistics HW 1](files/Environmental_Statistics_HW_1.pdf)
+
+[Environmental Statistics HW 2](files/Environmental_Statistics_HW_2.pdf)
+
+[Environmental Statistics HW 3](files/Environmental_Statistics_HW_3.pdf)
 
 
 ### Chi-Squared
