@@ -116,33 +116,48 @@ Pearson Correlation Coefficient
 
 ### Regression
 
-Also during the previously mentioned non-parametric statistics course **simple linear regression** and **multiple linear regression** were also covered. 
-
-LINKS TO HOMEWORK IN WHICH REGRESSION WAS COVERED
-
+During the previously mentioned non-parametric statistics course **simple linear regression** and **multiple linear regression** were also covered. These were implemented in R in class on simple data sets along with evaluating the **r-squared**, **adjusted r-squared** and **F-test** of the model.
 
 ### Time Series
     
+I do not have much expereience with time series analysis though I have attended a talk in which a **recurrent neural network**(LSTMs) was used to predict results of sports games based on a sliding window of previous sports game results. I found an [intersting blog](https://blog.statsbot.co/time-series-prediction-using-recurrent-neural-networks-lstms-807fa6ca7f) of this topic that I will be sure to review more closely before the interview.
     
     Experience with survey sampling methodologies and data collection techniques.
    
 In the now seemingly very useful non-parametric statistics course that I had the pleasure of taking I was also exposed to many different sampling methodologies as we must be aware of the bias that can be introduced with different sampling methods, and even some methods are only applicable if certain sampling techniques are performed due to assumptions that must be met for statisticall sound tests.
-    
-    
-    
+       
     Ability to lead small-sized teams.
-    
+
+During my time at iD tech I found myself leading others and organizing many internal situations. As a technical coordinator my job was to make sure that the camp ran smoothly, assisting technology issues in the camp and instructing students that needed more help in my free time.
     
     Applicants selected will be subject to a government security investigation and must meet eligibility requirements
     for access to classified information. U.S. citizenship is required.
+    
+I am a United States citizen. As I currently am employed part-time by FedEx Express, I have airport security clearance.
 
 
 ## Nice To Haves
 
-    Experience with SciPy, NumPy and Panda packages.
+    Experience with SciPy, NumPy and Pandas packages.
+    
+From my 2017 REU in Medical Informatics and other various times I have encountered these packages that make scientific computing much easier.
+
+[SciPy](https://docs.scipy.org/doc/scipy/reference/) -- Tutorial for SciPy from official docs
+
+[NumPy](https://docs.scipy.org/doc/numpy/user/basics.html) -- NumPy basics from official docs
+
+[Pandas](https://pandas.pydata.org/) -- Official docs for Pandas library
     
     
     Experience with Theano, Torch, Caffe, Tensorflow, Leaf or Autumn.
+    
+I have had brief expereience with Tensorflow during my Sophomore year AI project, in which I used Tensorflow to test my ANN architecture with the **Adam Optimizer** to see if in the very best possible case of my implmentation that the architecture would work. 
+
+[simple_mlp_tensorflow.py](files/simple_mlp_tensorflow.py)
+
+[simple_feed_forward_net.py](files/simple_feed_forward_net.py)
+
+[dobo_nn_continuous_feed_forward.py](files/dobo_nn_continuous_feed_forward.py)
     
     
     Experience with developing in a Linux environment.
