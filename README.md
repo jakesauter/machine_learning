@@ -162,17 +162,25 @@ I have had brief expereience with Tensorflow during my Sophomore year AI project
     
     Experience with developing in a Linux environment.
     
+I have been using Linux as my main operating system for close to 4 years now througout my Computer Science career. I have developed solely in Ubuntu during this whole period and find the ease of use for programming applications to be unparalled. I mainly used **Vim** as my editor of choice for about 2 years as I also did a lot of work on server, though now my editor of choice is **Gedit** with my configurations of plugins that help accelerate my workflow. I prefer these lightweight editors as I find larger editors to be clunky and many of the tools getting in the way of my development. 
+    
     
     Knowledge of machine learning acceleration techniques.
     
+When I think of "machine learning acceleration techniques" I am thinking of using the appropriate hardware for the job. I have made a few short programs on **Google Cloud** in which users have the option to make use of TPUs, GPUs or stadard chips. 
     
     Knowledge of radio communication technologies, i.e., coursework, amateur radio, etc.
     
+The only experience I have involving anything close to radio technologies is the theoretical concepts covered in Electromagnetics (Physics II) 
     
     Knowledge of or past experience working within an agile environment.
     
+As most of my work has been independent or small-team reserach, I have not had any active hands-on expereience with the agile environment. I am aware of basics of the agile system and am always up to learning new development processes.    
     
     Experience with writing government proposals.
     
+I have no experience in writing government proposals.    
     
     Active security clearance.
+
+I have an active Syracuse Hancock Airport security clearance, though no direct governmental security clearances.
