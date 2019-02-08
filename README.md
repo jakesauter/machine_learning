@@ -109,7 +109,7 @@ Both of these test were covered in [Environmental Statistics HW 4](files/Environ
 
 During the second semester of my Junior year I enrolled in Mathematical Statistics II in which we reviewed the mathematical foundations of many Statistical tests and concepts, Chi-Squared was included in these studies.
 
- <img src="files/chi_square_test_stat.png" alt="Girl in a jacket"> 
+ <img src="files/chi_square_test_stat.png" width="50%" alt="Girl in a jacket"> 
 
 ### Correlation 
 
