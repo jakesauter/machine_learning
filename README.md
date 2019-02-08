@@ -109,7 +109,11 @@ Both of these test were covered in [Environmental Statistics HW 4](files/Environ
 
 During the second semester of my Junior year I enrolled in Mathematical Statistics II in which we reviewed the mathematical foundations of many Statistical tests and concepts, Chi-Squared was included in these studies.
 
- <img src="files/chi_square_test_stat.png" width="50%" alt="Girl in a jacket"> 
+The Chi-Squared test is used to determine if there is a statistically significant difference in the expected versus observed sizes of groups for the Pearson Chi Square test, which is used for categorical data. The standard definition of statistical significance is applied here, with a common p-value of .-5.
+
+ <img src="files/chi_square_test_stat.png" width="50%" alt="chi square test staistic"> 
+ 
+ The Chi-Squared test can also be applied in the continuous case to determine if a sample from a normally distributed population has a particular varaince. The test statistic is normally referred to as T and could be set to be the sum of squares about the sample mean, divided by the nominal value for the variance (i.e. the value to be tested as holding). Then T has a chi-squared distribution with n − 1 degrees of freedom.
 
 ### Correlation 
 
