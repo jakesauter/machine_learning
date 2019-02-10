@@ -30,7 +30,7 @@ I very recently have had extensive experience with Python as I am finally gradua
 [**Capstone Project Machine Learning Week 1**](https://github.com/jakesauter/Molecular_Classification_Capstone/blob/master/files/Machine_Learning.pdf)
 
   * Machine Learning problem types
-  * Suptervised / Unsupervised learning
+  * Supervised / Unsupervised learning
   * Model assessment (confusion matrices / cross-validation / metrics)
     * Not covered here: FOC curve, but previous experience with FOC in 2017 REU
   * feature selection
