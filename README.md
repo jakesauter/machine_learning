@@ -119,7 +119,7 @@ The Chi-Squared test is used to determine if there is a statistically significan
 
 Pearson Correlation Coefficient
 
-<img src="files/correlation.png" width="50%" alt="correlation equation"> 
+<img src="files/correlation.png" width="100%" alt="correlation equation"> 
 
 
 ### Regression
