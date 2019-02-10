@@ -119,6 +119,9 @@ The Chi-Squared test is used to determine if there is a statistically significan
 
 Pearson Correlation Coefficient
 
+<img src="files/correlation.png" width="50%" alt="correlation equation"> 
+
+
 ### Regression
 
 During the previously mentioned non-parametric statistics course **simple linear regression** and **multiple linear regression** were also covered. These were implemented in R in class on simple data sets along with evaluating the **r-squared**, **adjusted r-squared** and **F-test** of the model.
