@@ -33,7 +33,7 @@ I very recently have had extensive experience with Python as I am finally gradua
   * Supervised / Unsupervised learning
   * Model assessment (confusion matrices / cross-validation / metrics)
     * Not covered here: FOC curve, but previous experience with FOC in 2017 REU
-  * feature selection
+  * Feature selection
   * Quadratic and Linear discriminants
   * K-Nearest-Neighbor
   * Decision Trees
