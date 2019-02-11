@@ -217,7 +217,7 @@ Another advantage of NumPy is that elementwise operations can also be performed,
 
 Uses: 
 
-> \>> import numpy as np  
+>> import numpy as np  
 > \>> list_a = np.array([1,2,3,4])  
 > >> list_b = np.array([2,3,4,5])  
 > >> \# dot product of two arrays  
