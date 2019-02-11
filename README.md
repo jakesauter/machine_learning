@@ -64,7 +64,7 @@ I also have previous experience with decision trees in R, though it was breif ex
 
 In reviewing decision trees I found a [video made by the Google Developers Youtube channel](https://www.youtube.com/watch?v=LDRbO9a6XPU&t=526s) extremely helpful in decifering **Gini impurity** and **information gain**.
 
- <img src="files/decision_trees.png" width="50%" alt="chi square test staistic"> 
+ <img src="files/decision_trees.jpg" width="50%" alt="decision trees"> 
 
 
 ### Random Forests
