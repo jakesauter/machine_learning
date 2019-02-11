@@ -251,21 +251,9 @@ Specific advantages that caught my eye with pandas data frames are
 * Robust IO tools for loading data from flat files (CSV and delimited), Excel files, databases, and saving / loading data from the ultrafast HDF5 format (This is where I have put pandas to use before)
 * Time series-specific functionality: date range generation and frequency conversion, moving window statistics, moving window linear regressions, date shifting and lagging, etc.
 
-Uses:
-
->  
->  
->  
->  
+As for Uses, Pandas provides a great [10 min introdution page](http://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html).
     
 [scikit-learn](https://scikit-learn.org/stable/) -- A library that I though was worth mentioning to make machine learning data analysis quick and easy. 
-
-Uses:
-
->  
->  
->  
->  
     
     Experience with Theano, Torch, Caffe, Tensorflow, Leaf or Autumn.
     
