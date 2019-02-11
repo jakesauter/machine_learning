@@ -217,24 +217,24 @@ Another advantage of NumPy is that elementwise operations can also be performed,
 
 Uses: 
 
->> import numpy as np  
+> \>> import numpy as np  
 > \>> list_a = np.array([1,2,3,4])  
-> >> list_b = np.array([2,3,4,5])  
-> >> \# dot product of two arrays  
-> list_a * list_b  
-> \# appending to a numpy array (appends list_b to list_a)  
-> np.append(list_a, list_b)  
-> \# multi-dimentsional arrays  
-> list_c = np.array([[1, 2, 3],  
+> \>> list_b = np.array([2,3,4,5])  
+> \>> \# dot product of two arrays  
+> \>> list_a * list_b  
+> \>> \# appending to a numpy array (appends list_b to list_a)  
+> \>> np.append(list_a, list_b)  
+> \>> \# multi-dimentsional arrays  
+> \>> list_c = np.array([[1, 2, 3],  
                      [4, 5, 6],   
                      [7, 8, 9]])  
-> \# creating a numpy array of zeros with a predefined shape of   
-> \# two rows (lists) and 3 columns (entries in each list)    
-> list_d = np.zeros((2,3))   
-> \# saving a numpy array to file in binary format    
-> np.save('list_d.npy', list_d)    
-> \# reading that same array back from memory   
-> np.load('list_d.npy')   
+> \>> \# creating a numpy array of zeros with a predefined shape of   
+> \>> \# two rows (lists) and 3 columns (entries in each list)    
+> \>> list_d = np.zeros((2,3))   
+> \>> \# saving a numpy array to file in binary format    
+> \>> np.save('list_d.npy', list_d)    
+> \>> \# reading that same array back from memory   
+> \>> np.load('list_d.npy')   
 
 [Pandas](https://pandas.pydata.org/) -- Official docs for Pandas library
 
