@@ -300,7 +300,9 @@ Uses:
 > \>> df.to_csv('file_name.csv')  
 
     
-[scikit-learn](https://scikit-learn.org/stable/) -- A library that I though was worth mentioning to make machine learning data analysis quick and easy. 
+[scikit-learn](https://scikit-learn.org/stable/) -- A library that I thought was worth mentioning to make machine learning data analysis quick and easy. 
+
+scikit-learn has great documentation with syntax similar to the MATLAB prediction libraries I have used before.
     
     Experience with Theano, Torch, Caffe, Tensorflow, Leaf or Autumn.
     
