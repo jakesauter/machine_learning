@@ -240,6 +240,17 @@ Uses:
 
 I have seen the power of Pandas at work for CSV reading in python. Pandas data structures are also easily convertable into numpy arrays which are then very compatible with modern day libraries such as **Tensorflow**.
 
+In [their own words](http://pandas.pydata.org/pandas-docs/stable/getting_started/overview.html) **pandas** is a Python package providing fast, flexible, and expressive data structures designed to make working with “relational” or “labeled” data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python. Additionally, it has the broader goal of becoming the most powerful and flexible open source data analysis / manipulation tool available in any language. 
+
+Interestingly, pandas is **built ontop of numpy**. Its main data structure for 2D+ data is the DataFrame.
+
+Specific advantages that caught my eye with pandas data frames are
+
+* Intelligent label-based slicing, fancy indexing, and subsetting of large data sets Intuitive merging and joining data sets
+* Flexible reshaping and pivoting of data sets
+* Robust IO tools for loading data from flat files (CSV and delimited), Excel files, databases, and saving / loading data from the ultrafast HDF5 format (This is where I have put pandas to use before)
+* Time series-specific functionality: date range generation and frequency conversion, moving window statistics, moving window linear regressions, date shifting and lagging, etc.
+
 Uses:
 
 >  
