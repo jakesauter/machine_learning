@@ -6,6 +6,9 @@ This repository will be used as a resource to prepare for a data scientist inter
 ## What We Expect From You, I.e., Your Qualifications
 
     Bachelor’s degree in Computer Science, Information Science, Mathematics, Physics or related discipline and 7 - 10 years of experience in that field. Master’s degree with 6 – 9 years of experience.
+    
+    
+
  
  I have just completed my bachelors degree in **Applied Mathematics** along with a Computer Science minor. I have been programming for about 8 years now with my introductory programming expreiences coming from classes made available to me my sophomore year of high school. After my introduction to Computer Science through introductory and intermediate Computer Science classes my sophomore year, I then went on to take AP Computer Science my Junior year and lead the Computer Science club in building apps and Java projects my Senior year. 
  
@@ -162,9 +165,7 @@ List of sampling methodologies reviewed in class
 * sampling methodology
 * sampling methodology
 
-
-
-> Ability to lead small-sized teams.
+    Ability to lead small-sized teams.
 
 During my time at iD tech I found myself leading others and organizing many internal situations. As a technical coordinator my job was to make sure that the camp ran smoothly, assisting technology issues in the camp and instructing students that needed more help in my free time.
     
