@@ -163,7 +163,8 @@ List of sampling methodologies reviewed in class
 * sampling methodology
 
 
-      Ability to lead small-sized teams.
+
+> Ability to lead small-sized teams.
 
 During my time at iD tech I found myself leading others and organizing many internal situations. As a technical coordinator my job was to make sure that the camp ran smoothly, assisting technology issues in the camp and instructing students that needed more help in my free time.
     
