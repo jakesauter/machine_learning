@@ -71,6 +71,8 @@ In reviewing decision trees I found a [video made by the Google Developers Youtu
 
 I came across random forests a few times in my academic career, though have only implemented them before breifly in R for my aforementioned [Capstone Project](https://github.com/jakesauter/Molecular_Classification_Capstone).
 
+In reviewing random foresets, I found [this video](https://www.youtube.com/watch?v=QHOazyP-YlM) by Siraj Raval helpful.
+
 ### Support Vector Machines (SVMs)
 
 Again, I have come across SVMs a few times in my studies and research. I put them to use during my [last summer's research](https://github.com/jakesauter/lateralization_project), though have more thoroughly studied them guided by my interest during my [Capstone Project](https://github.com/jakesauter/Molecular_Classification_Capstone). 
@@ -110,7 +112,7 @@ Both of these test were covered in [Environmental Statistics HW 4](files/Environ
 [Environmental Statistics HW 3](files/Environmental_Statistics_HW_3.pdf)
 
 
-### Chi-Squared
+### Chi-Squared Test
 
 During the second semester of my Junior year I enrolled in Mathematical Statistics II in which we reviewed the mathematical foundations of many Statistical tests and concepts, Chi-Squared was included in these studies.
 
