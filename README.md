@@ -252,6 +252,53 @@ Specific advantages that caught my eye with pandas data frames are
 * Time series-specific functionality: date range generation and frequency conversion, moving window statistics, moving window linear regressions, date shifting and lagging, etc.
 
 As for Uses, Pandas provides a great [10 min introdution page](http://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html).
+
+Uses: 
+
+> \>> import numpy as np
+> \>> import pandas as pd
+> \>> df = pd.DataFrame({'A': 1.,
+                      'B': pd.Timestamp('20130102'),
+                      'C': pd.Series(1, index=list(range(4)), dtype='float32'),
+                      'D': np.array([3] * 4, dtype='int32'),
+                      'E': pd.Categorical(["test", "train", "test", "train"]),
+                      'F': 'foo'})
+> \>> \# or we can read in a data frame from a CSV
+> \>> df2 = pd.read_csv()
+> \# print the first few rows and columns
+> \>> df2.head()
+> \# convert the dataframe to a numpy nd array
+> \>> df.to_numpy()
+> \# when accessing rows of the data, splicing has to be used even
+> \# for only one row
+> \>> df[0:1]
+> \# print data types in data frame
+> \>> df.dypes
+> \# five number summary of each column
+> \>> df.describe()
+> \# sort data by column
+> \>> df.sort_values('column_name', ascending=False)
+> \# accessing data by column name
+> \>> df.column_name
+> \# or
+> \>> df['column_name']
+> \# we can do this with multiple columns too
+> \>> df[['column_1', 'column_2']]
+> \# df.loc can slide from a row to a row and a list of columns
+> \>> df.loc[row_1:row_2, ['col_1','col_2']]
+> \# just like R we can also use the : to access all rows or columns
+> \>> df.loc[:, ['col_1','col_2]']
+> \# if we wanted every other column
+> \>> df.loc[:, df.columns[0::2]]
+> \# filtering data by a threshold value
+> \>> df[df['col_name'] > threshold]
+> \>> df[df['month'].isin['Jun', 'July', 'Aug']]
+> \# iterating through a data frame
+> \>> for index,row in df.iterrows():
+    print(index, row['col_1_name'], row['col_2_name'])
+> \# finally we can write the data frame to a CSV
+> \>> df.to_csv('file_name.csv')
+
     
 [scikit-learn](https://scikit-learn.org/stable/) -- A library that I though was worth mentioning to make machine learning data analysis quick and easy. 
     
@@ -265,10 +312,6 @@ I have had brief expereience with Tensorflow during my Sophomore year AI project
 
 [dobo_nn_continuous_feed_forward.py](files/dobo_nn_continuous_feed_forward.py)
 
-
-
-    
-    
     Experience with developing in a Linux environment.
     
 I have been using Linux as my main operating system for close to 4 years now througout my Computer Science career. I have developed solely in Ubuntu during this whole period and find the ease of use for programming applications to be unparalled. I mainly used **Vim** as my editor of choice for about 2 years as I also did a lot of work on server, though now my editor of choice is **Gedit** with my configurations of plugins that help accelerate my workflow. I prefer these lightweight editors as I find larger editors to be clunky and many of the tools getting in the way of my development. 
