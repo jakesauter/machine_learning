@@ -8,9 +8,7 @@ This repository will be used as a resource to prepare for a data scientist inter
     Bachelor’s degree in Computer Science, Information Science, Mathematics, Physics or related discipline and 7 - 10 years of experience in that field. Master’s degree with 6 – 9 years of experience.
     
     
-
- 
- I have just completed my bachelors degree in **Applied Mathematics** along with a Computer Science minor. I have been programming for about 8 years now with my introductory programming expreiences coming from classes made available to me my sophomore year of high school. After my introduction to Computer Science through introductory and intermediate Computer Science classes my sophomore year, I then went on to take AP Computer Science my Junior year and lead the Computer Science club in building apps and Java projects my Senior year. 
+; I have just completed my bachelors degree in **Applied Mathematics** along with a Computer Science minor. I have been programming for about 8 years now with my introductory programming expreiences coming from classes made available to me my sophomore year of high school. After my introduction to Computer Science through introductory and intermediate Computer Science classes my sophomore year, I then went on to take AP Computer Science my Junior year and lead the Computer Science club in building apps and Java projects my Senior year. 
  
  For my first year of college I attended SUNY Fredonia, where I planned to major in Computer Science on the advanced computing track. I was able to test out of the first two Computer Science classes while continuing to take them for experience handling common tasks in **C++**, as in high school I mainly programmed in Java. Due to my testing out and with the aid of the chair of the Computer Science department I was able to take Data Structures my first semested of my college experience, leading to me taking Analysis and Design of Algorithms my second semester and competing on a competitive programming team.
  
@@ -158,12 +156,36 @@ I do not have much expereience with time series analysis though I have attended 
    
 In the now seemingly very useful non-parametric statistics course that I had the pleasure of taking I was also exposed to many different sampling methodologies as we must be aware of the bias that can be introduced with different sampling methods, and even some methods are only applicable if certain sampling techniques are performed due to assumptions that must be met for statisticall sound tests.
 
-List of sampling methodologies reviewed in class
+**Sampling Techniques**
 
-* sampling methodology
-* sampling methodology
-* sampling methodology
-* sampling methodology
+* **Convenient Sampling** -- Generally accepted as not a good idea, collecting samples because they are easily available.
+* **Voluntray Response Sampling** -- Also can be a problematic sampling method, collecting data from individuals who volunteer to answer. All of these individuals may share common characteristics, for example people who have less of a carbon footprint may be more likey to take a survey about their carbon footprint.
+* **Probability Sampling** -- A sampling methodology in which randomness is used to reduce sampling bias.
+* **Simple Random Sampling** -- Every sample is equally likely of being included in the study.
+* **Multi-Stage Sampling** -- A simple random sample of a simple random sample. Such as randomly selecting the states to be in an environmental study then randomly sampling the state parks to be tested in those states.
+
+**Observational Study** -- Measurements for the variable of interest are colected on the individual but there is no attempt to modify or influence the individuals. The main goal of an observational study is to compare and observe existing characteristics or groups. These kinds of studies are particularly useful when the variable of interest cannot be controlled or influenced.
+
+**Experiment** -- A study in which a treatment or condition is imposed on individuals and the response is measure. The main goal of an experiment is to examine the effect of an intervention on a response variable. Experiments are particularly useful when investigating cause and effect. 
+
+**Types of Observational Studies:**
+
+* **Retrospective Study** -- A study where information is collected on an individuals past
+* **Prospective Study** --  A study that collects current/future information on subjects at regular intervals
+* **Cross-Sectional Study** -- Information is collected on individuals at **one** specific point in tie
+* **Case-Control Study** -- A study where a collection of individuals witha certain characterisitc are measures (cases) and a collection of individuals without that condition (controls) are collected, then the the groups are **compared**
+* **Cohort Study** -- A study that examines a group of homogenous individuals regularly over time. The main goal is to examine the emergence of a condition of interest over time. 
+
+**Types of Experiments**
+
+* **Randomized Comparative Experiment** -- A method of experiment where the effect of two or more treatments are compared and subjects are assinged to groups by random chance
+* **Completely Randomized Design** -- All individuals in the experiments are assigned to treatment type completely at random (Equals sample sizes for treatment type is not required).
+* **Block Design** --  Treatment type is randomly assigned to groups of individuals that are known to be similar in some way that is expected to impact the treatment response. 
+* **Matched-Pairs Design** -- Pairs are chosen that are closely related by the characteristic of interst, with one of the individuals being assigned to each condition. Individuals are often paired with themselves in a temporal study
+
+**Lurking variables** are variables that may have an impact on the response variable but were not considered during the experiment.
+
+**Confounding factors** occur when the effect of one factor cannot be distinguished from the effect of another factor.
 
     Ability to lead small-sized teams.
 
