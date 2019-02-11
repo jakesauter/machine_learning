@@ -239,7 +239,22 @@ Uses:
 [Pandas](https://pandas.pydata.org/) -- Official docs for Pandas library
 
 I have seen the power of Pandas at work for CSV reading in python. Pandas data structures are also easily convertable into numpy arrays which are then very compatible with modern day libraries such as **Tensorflow**.
+
+Uses:
+
+>  
+>  
+>  
+>  
     
+[scikit-learn](https://scikit-learn.org/stable/) -- A library that I though was worth mentioning to make machine learning data analysis quick and easy. 
+
+Uses:
+
+>  
+>  
+>  
+>  
     
     Experience with Theano, Torch, Caffe, Tensorflow, Leaf or Autumn.
     
@@ -250,6 +265,9 @@ I have had brief expereience with Tensorflow during my Sophomore year AI project
 [simple_feed_forward_net.py](files/simple_feed_forward_net.py)
 
 [dobo_nn_continuous_feed_forward.py](files/dobo_nn_continuous_feed_forward.py)
+
+
+
     
     
     Experience with developing in a Linux environment.
