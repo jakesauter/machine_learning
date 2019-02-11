@@ -70,13 +70,16 @@ In reviewing decision trees I found a [video made by the Google Developers Youtu
  
 <img src="files/gini_impurity.jpg" width="50%" alt="gini impurity"> 
 
-
-
 ### Random Forests
 
 I came across random forests a few times in my academic career, though have only implemented them before breifly in R for my aforementioned [Capstone Project](https://github.com/jakesauter/Molecular_Classification_Capstone).
 
 In reviewing random foresets, I found [this video](https://www.youtube.com/watch?v=QHOazyP-YlM) by Siraj Raval helpful.
+
+If we understand the standard decision tree well, random forests should come very easyily as they are simple a collection of decision trees constructed on random subsets of the data that are used to majority vote for the most likey class of a new sample.
+
+<img src="files/random_forests.jpg" width="50%" alt="random forests"> 
+
 
 ### Support Vector Machines (SVMs)
 
