@@ -85,6 +85,8 @@ If we understand the standard decision tree well, random forests should come ver
 
 Again, I have come across SVMs a few times in my studies and research. I put them to use during my [last summer's research](https://github.com/jakesauter/lateralization_project), though have more thoroughly studied them guided by my interest during my [Capstone Project](https://github.com/jakesauter/Molecular_Classification_Capstone). 
 
+During my Capstone project experience I devoted an entire week just to familiarizing myself more with SVMs, composing a [presentation](https://github.com/jakesauter/Molecular_Classification_Capstone/blob/master/files/Machine_Learning_Continued.pdf) of what I learned from Andrew NGs section on logistic regression and SVMs from his course on machine learning. 
+
 
 ### Artificial Neural Networks (ANNs)
 
