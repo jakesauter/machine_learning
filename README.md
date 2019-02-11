@@ -207,9 +207,19 @@ From my 2017 REU in Medical Informatics and other various times I have encounter
 
 [SciPy](https://docs.scipy.org/doc/scipy/reference/) -- Tutorial for SciPy from official docs
 
+From Scipy I have also used the **scipy.special.comb** combinations library, **scipy.stats.binom** binomial distribution library and **scipy.secial.product** for the cartesian product library. 
+
 [NumPy](https://docs.scipy.org/doc/numpy/user/basics.html) -- NumPy basics from official docs
 
+I have seen numpy around though have never done anything too computationally expenisve in python. I was wondering the advantages of using NumPy over standard python lists and [this stackoverflow answer](https://stackoverflow.com/questions/993984/what-are-the-advantages-of-numpy-over-regular-python-lists) explains that it **can reduce memory storage by a factor of 5**, while also making reading and writing operations quicker than standard python can. This difference in size comes from the flexibility of python lists as each element in the list is actually a **4 byte pointer**, pointing to at least a **16 byte object** (smallest possible python object), while numpy can store fixed precision uniform variable type value arrays.
+
+Uses: 
+
+> 
+
 [Pandas](https://pandas.pydata.org/) -- Official docs for Pandas library
+
+I have seen the power of Pandas at work for CSV reading in python. Pandas data structures are also easily convertable into numpy arrays which are then very compatible with modern day libraries such as **Tensorflow**.
     
     
     Experience with Theano, Torch, Caffe, Tensorflow, Leaf or Autumn.
