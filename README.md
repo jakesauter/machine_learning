@@ -62,6 +62,8 @@ I have studied decision trees in Python during my 2017 summer REU in medical inf
 
 I also have previous experience with decision trees in R, though it was breif experience. I have learned that decision trees are usually binary decision trees (meaning a two way split at each node) even though that this is not the best way to split the input space. This is due to the ability to often easy interpretation by experts and even by ordinary users of this method. Decision trees are widely implemented in supervised machine learning approaches for this quality.
 
+In reviewing decision trees I found a [video made by the Google Developers Youtube channel](https://www.youtube.com/watch?v=LDRbO9a6XPU&t=526s) extremely helpful in decifering **Gini impurity** and **information gain**.
+
 ### Random Forests
 
 I came across random forests a few times in my academic career, though have only implemented them before breifly in R for my aforementioned [Capstone Project](https://github.com/jakesauter/Molecular_Classification_Capstone).
