@@ -87,6 +87,10 @@ Again, I have come across SVMs a few times in my studies and research. I put the
 
 During my Capstone project experience I devoted an entire week just to familiarizing myself more with SVMs, composing a [presentation](https://github.com/jakesauter/Molecular_Classification_Capstone/blob/master/files/Machine_Learning_Continued.pdf) of what I learned from Andrew NGs section on logistic regression and SVMs from his course on machine learning. 
 
+One aspect of SVMs that I am nots super familiar with is **kernel functions**, though I have encountered them a few times and understand the basics, being helping nonlinerar functions to be learned, I am more than willing to learn them for the job at hand.  
+
+Summarized well from [this quora answer](https://www.quora.com/What-are-kernels-in-machine-learning-and-SVM-and-why-do-we-need-them), **kernels** are the idea of summing functions that imitate similarity. These kernels can be used to make nonlinearly seperable data into a much simpler problem that is linearly seperable. Though SVMs can solve nonlinear problems, choosing the exact features to be used can be tricky in nonlinear scenarios, so linearlizing a problem with kernels is a huge advantage when paired with SVMs.
+
 
 ### Artificial Neural Networks (ANNs)
 
@@ -150,8 +154,16 @@ I do not have much expereience with time series analysis though I have attended 
     Experience with survey sampling methodologies and data collection techniques.
    
 In the now seemingly very useful non-parametric statistics course that I had the pleasure of taking I was also exposed to many different sampling methodologies as we must be aware of the bias that can be introduced with different sampling methods, and even some methods are only applicable if certain sampling techniques are performed due to assumptions that must be met for statisticall sound tests.
-       
-    Ability to lead small-sized teams.
+
+List of sampling methodologies reviewed in class
+
+* sampling methodology
+* sampling methodology
+* sampling methodology
+* sampling methodology
+
+
+      Ability to lead small-sized teams.
 
 During my time at iD tech I found myself leading others and organizing many internal situations. As a technical coordinator my job was to make sure that the camp ran smoothly, assisting technology issues in the camp and instructing students that needed more help in my free time.
     
