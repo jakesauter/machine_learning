@@ -136,6 +136,8 @@ The Chi-Squared test is used to determine if there is a statistically significan
  <img src="files/chi_square_test_stat.png" width="50%" alt="chi square test staistic"> 
  
  The Chi-Squared test can also be applied in the continuous case to determine if a sample from a normally distributed population has a particular varaince. The test statistic is normally referred to as T and could be set to be the sum of squares about the sample mean, divided by the nominal value for the variance (i.e. the value to be tested as holding). Then T has a chi-squared distribution with n − 1 degrees of freedom.
+ 
+The Chi-Squared test can also be used to assess how well a sample distribution fits a coninuous distribution such as the **Normal Distribution**. I found [this video](https://www.youtube.com/watch?v=HabIKLG92MQ) and the [following video](https://www.youtube.com/watch?v=OnCL2JlD86k) very helpful as a refresher for this concept.
 
 ### Correlation 
 
