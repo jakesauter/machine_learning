@@ -95,7 +95,7 @@ Summarized well from [this quora answer](https://www.quora.com/What-are-kernels-
 
 ### Artificial Neural Networks (ANNs)
 
-My experience with ANNs comes from my Sophomore year A.I. [semester-long indepedent research project](https://jakesauter.github.io/course-sites/csc466_project.html) in which I implemented a Common LISP program that could construct aribitrary architectues of a simple **feed-forward ANN**. This ANN was used for memory compression of a form of board game solutions found via **Rote learning**.
+My experience with ANNs comes from my Sophomore year [semester-long indepedent research project](https://jakesauter.github.io/course-sites/csc466_project.html) in which I implemented a Common LISP program that could construct aribitrary architectues of a simple **feed-forward ANN**. This ANN was used for memory compression of a form of board game solutions found via **Rote learning**.
 
 ### Incremental Response
 
@@ -104,7 +104,7 @@ I have not heard the term "Incremental Response" before this prompt, though I wa
     Experience with statistical tests and procedures such as ANOVA, Chi-squared, correlation,
     regression, and time series.
     
-As noted before the reason for my change of major to Applied Mathematics was to form a more solid mathematical background. Once I began my full-time math studies I found Statistics to be the most intersting (and most likely the most probable to be useful in my career path) of the topics was studying, and thus let this guide me into taking more Statistics classes then required and performing a [**Capstone Project**](https://github.com/jakesauter/Molecular_Classification_Capstone) in Statistics applied to molecular genomics. 
+As noted before the reason for my change of major to Applied Mathematics was to form a more solid mathematical background. Once I began my full-time math studies I found Statistics to be the most intersting (and most likely the most probable to be useful in my career path) of the topics I was studying, and thus let this guide me into taking more Statistics classes then required and performing a [**Capstone Project**](https://github.com/jakesauter/Molecular_Classification_Capstone) in Statistics applied to molecular genomics. 
    
 ### ANOVA
 
@@ -135,7 +135,10 @@ The Chi-Squared test is used to determine if there is a statistically significan
 
  <img src="files/chi_square_test_stat.png" width="50%" alt="chi square test staistic"> 
  
- The Chi-Squared test can also be applied in the continuous case to determine if a sample from a normally distributed population has a particular varaince. The test statistic is normally referred to as T and could be set to be the sum of squares about the sample mean, divided by the nominal value for the variance (i.e. the value to be tested as holding). Then T has a chi-squared distribution with n − 1 degrees of freedom.
+The Chi-Squared test can also be applied in the continuous case to determine if a sample from a normally distributed population has a particular varaince. The test statistic is normally referred to as T and could be set to be the sum of squares about the sample mean, divided by the nominal value for the variance (i.e. the value to be tested as holding). Then T has a chi-squared distribution with n − 1 degrees of freedom.
+
+<img src="files/one_pop_chi_sq.png" width="50%" alt="one population chi square"> 
+
  
 The Chi-Squared test can also be used to assess how well a sample distribution fits a coninuous distribution such as the **Normal Distribution**. I found [this video](https://www.youtube.com/watch?v=HabIKLG92MQ) and the [following video](https://www.youtube.com/watch?v=OnCL2JlD86k) very helpful as a refresher for this concept. Essentially we bin the distrubtion and our test statistic involves the **expected area** in the interested area of the distribtion minun the **observed area**. This area comes from the **normalized data** and thus can be seen as **what percent of the data would we expect to see in a particular bin vs. what percent of data we observe in that particular bin**.
 
