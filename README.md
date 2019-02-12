@@ -268,38 +268,38 @@ Uses:
                       'F': 'foo'})  
 > \>> \# or we can read in a data frame from a CSV  
 > \>> df2 = pd.read_csv()  
-> \# print the first few rows and columns  
+> \>> \# print the first few rows and columns  
 > \>> df2.head()  
-> \# convert the dataframe to a numpy nd array  
+> \>> \# convert the dataframe to a numpy nd array  
 > \>> df.to_numpy()  
-> \# when accessing rows of the data, splicing has to be used even  
-> \# for only one row  
+> \>> \# when accessing rows of the data, splicing has to be used even  
+> \>> \# for only one row  
 > \>> df[0:1]  
-> \# print data types in data frame  
+> \>> \# print data types in data frame  
 > \>> df.dypes  
-> \# five number summary of each column  
+> \>> \# five number summary of each column  
 > \>> df.describe()  
-> \# sort data by column  
+> \>> \# sort data by column  
 > \>> df.sort_values('column_name', ascending=False)   
-> \# accessing data by column name  
+> \>> \# accessing data by column name  
 > \>> df.column_name   
-> \# or  
+> \>> \# or  
 > \>> df['column_name']   
-> \# we can do this with multiple columns too   
+> \>> \# we can do this with multiple columns too   
 > \>> df[['column_1', 'column_2']]   
-> \# df.loc can slide from a row to a row and a list of columns   
+> \>> \# df.loc can slide from a row to a row and a list of columns   
 > \>> df.loc[row_1:row_2, ['col_1','col_2']]   
-> \# just like R we can also use the : to access all rows or columns    
+> \>> \# just like R we can also use the : to access all rows or columns    
 > \>> df.loc[:, ['col_1','col_2]']   
-> \# if we wanted every other column    
+> \>> \# if we wanted every other column    
 > \>> df.loc[:, df.columns[0::2]]   
-> \# filtering data by a threshold value   
+> \>> \# filtering data by a threshold value   
 > \>> df[df['col_name'] > threshold]   
 > \>> df[df['month'].isin['Jun', 'July', 'Aug']]   
-> \# iterating through a data frame   
+> \>> \# iterating through a data frame   
 > \>> for index,row in df.iterrows():   
     print(index, row['col_1_name'], row['col_2_name'])  
-> \# finally we can write the data frame to a CSV   
+> \>> \# finally we can write the data frame to a CSV   
 > \>> df.to_csv('file_name.csv')  
 
     
@@ -324,7 +324,7 @@ I have been using Linux as my main operating system for close to 4 years now thr
     
     Knowledge of machine learning acceleration techniques.
     
-When I think of "machine learning acceleration techniques" I am thinking of using the appropriate hardware for the job. I have made a few short programs on **Google Cloud** in which users have the option to make use of TPUs, GPUs or stadard chips. 
+When I think of "machine learning acceleration techniques" I am thinking of using the appropriate hardware for the job. I have made a few short programs on **Google Cloud** in which users have the option to make use of TPUs, GPUs or stadard chips. I have also found out that alongside acceleration, **persistance**, or the ability to pick up training a model where you have left it off, is one of the most important features of a tuned machine learning pipeline. Because of this I wrote a custom function to **parse trained neural nets** and reinitialize them in my Common Lisp implementation of ANNs.
     
     Knowledge of radio communication technologies, i.e., coursework, amateur radio, etc.
     
