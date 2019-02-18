@@ -337,6 +337,12 @@ I have also covered **Partial Differential Equations and Orthogonal Functions** 
  <img src="files/fourier_1.jpg" width="50%" alt="fourier transform"> 
  
  <img src="files/fourier_2.jpg" width="50%" alt="fourier transform"> 
+ 
+ I was not satisified with assuming the rotational properties of e^x in the complex plane, so did some more investigating
+ 
+ <img src="files/e_1.jpg" width="50%" alt="e"> 
+ 
+ <img src="files/e_2.jpg" width="50%" alt="e"> 
 
     
     Knowledge of or past experience working within an agile environment.
