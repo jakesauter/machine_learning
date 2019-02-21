@@ -67,7 +67,7 @@ I also have previous experience with decision trees in R, though it was breif ex
 
 In reviewing decision trees I found a [video made by the Google Developers Youtube channel](https://www.youtube.com/watch?v=LDRbO9a6XPU&t=526s) extremely helpful in decifering **Gini impurity** and **information gain**.
 
- <img src="files/decision_trees.jpg" width="50%" alt="decision trees"> 
+ <src="files/decision_trees.jpg" width="50%" alt="decision trees"> 
  
  I felt that I needed a better understanding of Gini impurity so I did a walkthrough of the [wikipedia page](https://en.wikipedia.org/wiki/Decision_tree_learning)
  
@@ -103,7 +103,7 @@ Since then, since I have greatfully been granted the position to which this repo
 
  <img src="files/neural_nets_intro.jpg" width="50%" alt="Refresher to the introduction of neural networks"> 
 
- <img src="files/neural_nets_calculations.jpg" width="50%" alt="progoation of one layer in a neural network"> 
+ <img src="files/neural_nets_calculations.jpg" width="50%" alt="progoation of one layer in a neural network", witdth="50%"> 
 
 
 ### Incremental Response
