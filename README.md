@@ -103,7 +103,7 @@ Since then, since I have greatfully been granted the position to which this repo
 
  <img src="files/neural_nets_intro.jpg" width="50%" alt="Refresher to the introduction of neural networks"> 
 
- <img src="files/neural_nets_calculations.jpg" width="50%" alt="progoation of one layer in a neural network", style="transform:rotate(90deg);"> 
+ <img src="files/neural_nets_calculations.jpg" width="50%" alt="progoation of one layer in a neural network"> 
 
 
 ### Incremental Response
