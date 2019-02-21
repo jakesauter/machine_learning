@@ -99,6 +99,13 @@ Summarized well from [this quora answer](https://www.quora.com/What-are-kernels-
 
 My experience with ANNs comes from my Sophomore year [semester-long indepedent research project](https://jakesauter.github.io/course-sites/csc466_project.html) in which I implemented a Common LISP program that could construct aribitrary architectues of a simple **feed-forward ANN**. This ANN was used for memory compression of a form of board game solutions found via **Rote learning**.
 
+Since then, since I have greatfully been granted the position to which this repository was constructed for, I have begun a refresher on Nerual Networks and will continue to expand my knowledge on the topic. I will begin my learning where I always like to start if content is present, on the [3 Blue 1 Brown Youtube Channel](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1).
+
+ <img src="files/neural_nets_intro.jpg" width="50%" alt="Refresher to the introduction of neural networks"> 
+
+ <img src="files/neural_nets_calculations.jpg" width="50%" alt="progoation of one layer in a neural network"> 
+
+
 ### Incremental Response
 
 I have not heard the term "Incremental Response" before this prompt, though I was intially struck by the idea of **gradient descent**, and how the solution of a problem can be updated incrementally to achieve the optimal solution. With a little looking around I found a [maketing training website](https://blogs.sas.com/content/subconsciousmusings/2013/07/12/how-incremental-response-modeling-can-help-you-reach-the-right-target-group-more-precisely/) that described incremental response as a sort of experimental design, **second order** effects are attempted to be minimized while model changes are **incrementally added** in order to truly judge their effects on the model. 
