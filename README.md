@@ -15,7 +15,7 @@ During my time at SUNY Oswego I had the chance to take many exciting Computer Sc
  
 All in all I am very pleased with my formal education as well as the two **Summer Research Positions** that I was able to aquire along the way due to my academic performance and previous project successes.
     
-## Proficiency in Python.
+## Proficiency in Python
     
 Python has genuinely come about as my favorite programming language. It is elegant in the brevity and readability of the code, allowing a master of the language to accomplish much in one line while still allowing programmers not-so-familiar with the language to understand the processing. As we will later see in this repository, Python also has many useful libraries that are continually updated, and has found itself to be in the center of attention in this time of Machine Learning revolution and popularity due to widely supported libraries. This support includes **Google Cloud**, that allows users to run their Machine Learning algorithms on the most up to date hardware, including the newest **TPUs**. 
 
@@ -321,7 +321,7 @@ I have had brief expereience with Tensorflow during my Sophomore year AI project
 I have been using Linux as my main operating system for close to 4 years now througout my Computer Science career. I have developed solely in Ubuntu during this whole period and find the ease of use for programming applications to be unparalled. I mainly used **Vim** as my editor of choice for about 2 years as I also did a lot of work on server, though now my editor of choice is **Gedit** with my configurations of plugins that help accelerate my workflow. I prefer these lightweight editors as I find larger editors to be clunky and many of the tools getting in the way of my development. 
     
     
-## Knowledge of machine learning acceleration techniques.
+## Knowledge of machine learning acceleration techniques
     
 When I think of "machine learning acceleration techniques" I am thinking of using the appropriate hardware for the job. I have made a few short programs on **Google Cloud** in which users have the option to make use of TPUs, GPUs or stadard chips. I have also found out that alongside acceleration, **persistance**, or the ability to pick up training a model where you have left it off, is one of the most important features of a tuned machine learning pipeline. Because of this I wrote a custom function to **parse trained neural nets** and reinitialize them in my Common Lisp implementation of ANNs.
     
@@ -342,6 +342,6 @@ I have also covered **Partial Differential Equations and Orthogonal Functions** 
  <img src="files/e_2.jpg" width="50%" alt="e"> 
 
     
-## Knowledge of or past experience working within an agile environment.
+## Knowledge of or past experience working within an agile environment
     
 As most of my work has been independent or small-team reserach, I have not had any active hands-on expereience with the agile environment. I am aware of basics of the agile system and am always up to learning new development processes.    
