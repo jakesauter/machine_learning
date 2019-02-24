@@ -1,6 +1,6 @@
 # Machine Learning
 
-This repository will serve as a resource on my journey to becoming a highly qualified Data Scientist / Machine Learning Eningeer.
+This repository will serve as a resource and as a part of a porfilio on my journey to becoming a highly qualified Data Scientist / Machine Learning Eningeer.
 
 
 ## Formal Education
