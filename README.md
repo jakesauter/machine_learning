@@ -1,14 +1,11 @@
 # Machine Learning
 
-This repository will be used as a resource to prepare for a data scientist interview as well as a general resource for myself to look back to. 
+This repository will serve as a resource on my journey to becoming a highly qualified Data Scientist / Machine Learning Eningeer.
 
 
-## What We Expect From You, I.e., Your Qualifications
+## Formal Education
 
-    Bachelor’s degree in Computer Science, Information Science, Mathematics, Physics or related discipline and 7 - 10 years of experience in that field. Master’s degree with 6 – 9 years of experience.
-    
-    
-I have just completed my bachelors degree in **Applied Mathematics** along with a Computer Science minor. I have been programming for about 7 years now with my introductory programming expreiences coming from classes made available to me my sophomore year of high school. After my introduction to Computer Science through introductory and intermediate Computer Science classes my sophomore year, I then went onto take AP Computer Science my Junior year and lead the Computer Science club in building apps and Java projects my Senior year. 
+In **December 2018** I completed my bachelors degree in **Applied Mathematics** along with a Computer Science minor. I have been programming for about 7 years now with my introductory programming expreiences coming from classes made available to me my sophomore year of high school. After my introduction to Computer Science through introductory and intermediate Computer Science classes my sophomore year, I then went onto take AP Computer Science my Junior year and lead the Computer Science club in building apps and Java projects my Senior year. 
  
 For my first year of college I attended **SUNY Fredonia**, where I planned to major in Computer Science on the advanced computing track. I was able to test out of the first two Computer Science classes while continuing to take them for experience handling common tasks in **C++**, as in high school I mainly programmed in Java. Due to my testing out and with the aid of the chair of the Computer Science department, I was able to take Data Structures my first semester of my college experience, leading to me taking Analysis and Design of Algorithms my second semester and competing on a competitive programming team.
  
@@ -18,7 +15,7 @@ During my time at SUNY Oswego I had the chance to take many exciting Computer Sc
  
 All in all I am very pleased with my formal education as well as the two **Summer Research Positions** that I was able to aquire along the way due to my academic performance and previous project successes.
     
-    Proficiency in Python.
+## Proficiency in Python.
     
 Python has genuinely come about as my favorite programming language. It is elegant in the brevity and readability of the code, allowing a master of the language to accomplish much in one line while still allowing programmers not-so-familiar with the language to understand the processing. As we will later see in this repository, Python also has many useful libraries that are continually updated, and has found itself to be in the center of attention in this time of Machine Learning revolution and popularity due to widely supported libraries. This support includes **Google Cloud**, that allows users to run their Machine Learning algorithms on the most up to date hardware, including the newest **TPUs**. 
 
@@ -26,8 +23,7 @@ I very recently have had extensive experience with Python as I am finally a grad
 
    
     
-    Experience with machine learning and data modeling techniques such as decision trees, random forests, SVM,
-    neural networks and incremental response.
+## Experience with machine learning and data modeling techniques
     
     
 [**Capstone Project Machine Learning Week 1**](https://github.com/jakesauter/Molecular_Classification_Capstone/blob/master/files/Machine_Learning.pdf)
@@ -112,8 +108,7 @@ Since then, since I have greatfully been granted the position to which this repo
 
 I have not heard the term "Incremental Response" before this prompt, though I was intially struck by the idea of **gradient descent**, and how the solution of a problem can be updated incrementally to achieve the optimal solution. With a little looking around I found a [maketing training website](https://blogs.sas.com/content/subconsciousmusings/2013/07/12/how-incremental-response-modeling-can-help-you-reach-the-right-target-group-more-precisely/) that described incremental response as a sort of experimental design, **second order** effects are attempted to be minimized while model changes are **incrementally added** in order to truly judge their effects on the model. 
     
-    Experience with statistical tests and procedures such as ANOVA, Chi-squared, correlation,
-    regression, and time series.
+## Experience with statistical tests and procedures
     
 As noted before the reason for my change of major to Applied Mathematics was to form a more solid mathematical background. Once I began my full-time math studies I found Statistics to be the most intersting (and most likely the most probable to be useful in my career path) of the topics I was studying, and thus let this guide me into taking more Statistics classes then required and performing a [**Capstone Project**](https://github.com/jakesauter/Molecular_Classification_Capstone) in Statistics applied to molecular genomics. 
    
@@ -203,19 +198,12 @@ In the now seemingly very useful non-parametric statistics course that I had the
 
 **Confounding factors** occur when the effect of one factor cannot be distinguished from the effect of another factor.
 
-    Ability to lead small-sized teams.
+## Ability to lead small-sized teams
 
 During my time at iD tech I found myself leading others and organizing many internal situations. As a technical coordinator my job was to make sure that the camp ran smoothly, assisting technology issues in the camp and instructing students that needed more help in my free time.
     
-    Applicants selected will be subject to a government security investigation and must meet eligibility requirements
-    for access to classified information. U.S. citizenship is required.
     
-I am a United States citizen. As I currently am employed part-time by FedEx Express, I have airport security clearance.
-
-
-## Nice To Haves
-
-    Experience with SciPy, NumPy and Pandas packages.
+## Experience with SciPy, NumPy and Pandas packages
     
 From my 2017 REU in Medical Informatics and other various times I have encountered these packages that make scientific computing much easier.
 
@@ -328,16 +316,16 @@ I have had brief expereience with Tensorflow during my Sophomore year AI project
 
 [dobo_nn_continuous_feed_forward.py](files/dobo_nn_continuous_feed_forward.py)
 
-    Experience with developing in a Linux environment.
+## Experience with developing in a Linux environment.
     
 I have been using Linux as my main operating system for close to 4 years now througout my Computer Science career. I have developed solely in Ubuntu during this whole period and find the ease of use for programming applications to be unparalled. I mainly used **Vim** as my editor of choice for about 2 years as I also did a lot of work on server, though now my editor of choice is **Gedit** with my configurations of plugins that help accelerate my workflow. I prefer these lightweight editors as I find larger editors to be clunky and many of the tools getting in the way of my development. 
     
     
-    Knowledge of machine learning acceleration techniques.
+## Knowledge of machine learning acceleration techniques.
     
 When I think of "machine learning acceleration techniques" I am thinking of using the appropriate hardware for the job. I have made a few short programs on **Google Cloud** in which users have the option to make use of TPUs, GPUs or stadard chips. I have also found out that alongside acceleration, **persistance**, or the ability to pick up training a model where you have left it off, is one of the most important features of a tuned machine learning pipeline. Because of this I wrote a custom function to **parse trained neural nets** and reinitialize them in my Common Lisp implementation of ANNs.
     
-    Knowledge of radio communication technologies, i.e., coursework, amateur radio, etc.
+## Advanced Calculus Background
     
 The only experience I have involving anything close to radio technologies is the theoretical concepts covered in Electromagnetics (Physics II) 
 
@@ -354,14 +342,6 @@ I have also covered **Partial Differential Equations and Orthogonal Functions** 
  <img src="files/e_2.jpg" width="50%" alt="e"> 
 
     
-    Knowledge of or past experience working within an agile environment.
+## Knowledge of or past experience working within an agile environment.
     
 As most of my work has been independent or small-team reserach, I have not had any active hands-on expereience with the agile environment. I am aware of basics of the agile system and am always up to learning new development processes.    
-    
-    Experience with writing government proposals.
-    
-I have no experience in writing government proposals.    
-    
-    Active security clearance.
-
-I have an active Syracuse Hancock Airport security clearance, though no direct governmental security clearances.
